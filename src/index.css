@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'iransans';
+  @font-face {
+    font-family: 'IRANSansX';
+    src: url('../src/fonts/IRANSansX-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+  }
+  font-weight: 500;
+  font-style: normal;
+}
+body{
+  background-color: #131414;
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
